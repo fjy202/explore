@@ -1,5 +1,5 @@
 ---
-aliases: linux-kernel, linux-app, linux-distribution, linux-desktop
+aliases: linux-kernel, linux-app, linux-distribution, linux-desktop, GNU/linux
 created_by: Linus Torvalds
 display_name: Linux
 github_url: https://github.com/torvalds/linux
